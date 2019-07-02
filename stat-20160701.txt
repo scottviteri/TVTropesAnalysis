@@ -1,8 +1,0 @@
-DBTropes.org dump 20160701 statistics
-RDF statements: 21057602
-Items: 61915
-Feature types: 27254
-Feature instances: 3580311
-DBpedia links: 5179
-Freebase links: 723
-LinkedMDB links: 416

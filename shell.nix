@@ -5,8 +5,13 @@ stdenv.mkDerivation rec {
   buildInputs = [
     python36
     python36Packages.numpy
+    python36Packages.matplotlib
     python36Packages.ipython
-    python36Packages.jupyter
+    python36Packages.more-itertools
+    python36Packages.ipywidgets
+    python36Packages.scikitlearn 
+    python36Packages.seaborn
+ 
   ];
 }
 
